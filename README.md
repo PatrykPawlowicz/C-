@@ -1,7 +1,9 @@
 # CSharp
 C# excercises
 ## Description 
-A repository created from university tasks that were used to learn C# programming.
+A repository created from university tasks that were used to learn C# programming.<br>
+
+Exercices based on the book "Wprowadzenie do programowania - ITA-104"
 ## Table of content
 * [Delta](#delta)
 * [Fibonacci](#fibonacci)
