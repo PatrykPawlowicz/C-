@@ -1,8 +1,19 @@
-# CSharp
+3# CSharp
 C# excercises
 ## Description 
 A repository created from university tasks that were used to learn C# programming.
 ## Table of content
+* [Delta](#delta)
+* [Fibonacci](#fibonacci)
+* [LiczbaPierwsza](#liczbapierwsza)
+* [Maximum](#maximum)
+* [NWD](#nwd)
+* [OdwrócenieZdania](#odwróceniezdania)
+* [Silnia](#silnia)
+* [SumaIloczyn](#sumailoczyn)
+* [Wstawianie](#wstawianie)
+* [Zamianaznaków](#zamianaznaków)
+
 ## Delta
 ![Delta](https://github.com/PatrykPawlowicz/CSharp/blob/master/C%23/Delta.png?raw=true)
 ## Fibonacci
