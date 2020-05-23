@@ -5,7 +5,7 @@ A repository created from university tasks that were used to learn C# programmin
 
 The repository contains tasks to draw random numbers, invert sentences, calculate the largest common divisor, calculate factorials and other similar simple tasks. <br>
 
-Exercices based on the book "Wprowadzenie do programowania - ITA-104"
+Exercices based on the book "Wprowadzenie do programowania - ITA-104."
 ## Table of content
 * [Delta](#delta)
 * [Fibonacci](#fibonacci)
